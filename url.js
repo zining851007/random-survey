@@ -7,8 +7,4 @@
  */
 
 
-const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
-];
+const urls = ['https://forms.gle/L1ojE3Vzceh9jvRH9','https://forms.gle/jWWS7bSwNScnjunQA','https://forms.gle/RZUJhcSqJSbnApjp6'];
